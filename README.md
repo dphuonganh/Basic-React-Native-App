@@ -44,7 +44,7 @@ https://codepen.io/necolas/pen/PZzwBR
 
 The Following is the screenshot of the app which shows the top ten movies of IMDB using a scrollable view.
 
-![Screen1.png]()
+![Screen1.png](https://github.com/dphuonganh/Basic-React-Native-App/blob/master/Screen1.png)
 
 ## Waypoint 1: Create a skeleton React Native app
 
@@ -70,7 +70,7 @@ Create an album using the individual movie components and display them in a styl
 
 Create a touchable component (eg. A button is a touchable component) in each movie component so that when the user taps into the button it will open the corresponding url of the movie in a web browser. The following is the url opening up to the corresponding movie page in IMDB when the button is tapped.
 
-![Screen2.png]()
+![Screen2.png](https://github.com/dphuonganh/Basic-React-Native-App/blob/master/Screen2.png)
 
 ## Common Errors
 
