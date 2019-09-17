@@ -43,3 +43,40 @@ https://codepen.io/necolas/pen/PZzwBR
 ## The App
 
 The Following is the screenshot of the app which shows the top ten movies of IMDB using a scrollable view.
+
+![Screen1.png]()
+
+## Waypoint 1: Create a skeleton React Native app
+
+Create a basic React Native app that displays a text or an image.
+
+## Waypoint 2: Parse JSON file
+
+Fetch information from parsed data
+
+## WayPoint 3: Create stylish components
+
+Create a stylish component that will hold each movies in the album.
+
+## WayPoint 4: Create movie components
+
+Pass the fetched JSON data into stylish movie components.
+
+## WayPoint 5: Create Album
+
+Create an album using the individual movie components and display them in a stylized scroll view.
+
+## WayPoint 6: Touchable Component
+
+Create a touchable component (eg. A button is a touchable component) in each movie component so that when the user taps into the button it will open the corresponding url of the movie in a web browser. The following is the url opening up to the corresponding movie page in IMDB when the button is tapped.
+
+![Screen2.png]()
+
+## Common Errors
+
+It's highly likely that you will face multitude of errors when working with ReactNative. Most of the errors have been documented and some of the errors can be traced back to your wrong codes. Make sure you make your app bug free and your app work smoothly.
+
+## Local JSON file
+
+You can download the JSON file required for this project below.
+
